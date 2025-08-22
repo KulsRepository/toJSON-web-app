@@ -1,0 +1,17 @@
+# requirements.txt
+# This file lists the Python libraries required for your serverless function.
+
+# The core library to run as a serverless function
+functions-framework
+
+# A lightweight web framework for handling HTTP requests
+Flask
+
+# Data manipulation and analysis library
+pandas
+
+# Library for reading and writing Excel files (.xlsx)
+openpyxl
+
+# Library for reading OpenDocument Spreadsheet files (.ods)
+odfpy
